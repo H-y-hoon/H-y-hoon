@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.instagram.com/h_y_hoon/" target="_blank">h_y_hoon&nbsp;<img src="assets/instagram.png" height="25px" /></h1>
+<h1 align="center"><a href="https://www.instagram.com/h_y_hoon/" target="_blank">@h_y_hoon&nbsp;<img src="assets/instagram.png" height="25px" /></h1>
 
 <p align="center">
 <br /><br />
