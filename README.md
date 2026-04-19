@@ -1,4 +1,4 @@
-<h1 align="center">h_y_hoon&nbsp;<img src="assets/instagram.png" height="25px" /></h1>
+<h1 align="center">HI, Im Yanghonn&nbsp;</h1>
 
 <p align="center">
 <code><img src="icons/python.png" height="35"></code>
