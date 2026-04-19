@@ -1,4 +1,4 @@
-<h1 align="center">HI, Im Yanghonn&nbsp;</h1>
+<h1 align="center">Hi, Im Yanghoon&nbsp;</h1>
 
 <p align="center">
 <code><img src="icons/python.png" height="35"></code>
